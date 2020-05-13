@@ -22,5 +22,6 @@ Alternatively we can use Balanced Random Forest model which outperforms the othe
 
 - Technologies used: Python, sklearn package, samplers (RandomOverSampler, SMOTE, RandomUnderSampler, SMOTEENN), ML models ( LogisticRegression, BalancedRandomForestClassifier)
 - Programs: credit_risk_resampling.ipynb
-- Resources: LoanStats_2019Q1.csv 
+- Resources: Resources/LoanStats_2019Q1.zip 
+- User must download credit_risk_challenge_TO file and Resources folder to the same location
 
